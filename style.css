@@ -1,0 +1,29 @@
+body{
+  font-family:  Helvetica, Arial, sans-serif;
+  background-color: #e0e0e0;
+  font-size: 1.2em;
+  color: #000000;
+  padding: 20px;
+}
+
+h1{
+  text-transform:capitalize;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+
+a:link{
+  text-decoration: none;
+  color: blue;
+}
+
+a:visited{
+  color: #836fa9;
+}
+
+a:hover{
+  color: #000000;
+}
